@@ -1,10 +1,3 @@
-# btboilerplate-
-# Hi there 👋
-
-I'm an **ML Engineer & AI Developer** building production-ready AI systems — RAG pipelines, agentic workflows, generative image models, and semantic search.
-
-Currently exploring LLMs, computer vision, and real-time inference with FastAPI & Docker.
-
 ---
 
 ## 🧠 AI & ML
@@ -71,16 +64,4 @@ Currently exploring LLMs, computer vision, and real-time inference with FastAPI 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 🚀 What I Build
-
-| Domain | Description |
-|--------|-------------|
-| **RAG & Agentic Systems** | Retrieval-augmented pipelines with Elasticsearch + FAISS, multi-step agent workflows with tool use and memory |
-| **Generative Image Models** | Stable Diffusion pipelines with semantic safety filtering via MiniLM & MPNet embeddings |
-| **Computer Vision & Face AI** | Face detection, recognition, age/gender estimation using InsightFace and Vision Transformers |
-| **Production APIs** | FastAPI-based inference servers, containerised with Docker, deployed on AWS |
-
----
-
-<p align="center">Open to collaboration · Always learning</p>
+<p align="center">Always learning</p>
